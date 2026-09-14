@@ -1,4 +1,2 @@
-@@ -1 +1,2 @@
-def funation()
-for i in range(4):
-  print("Today is my first day at Elite 101!")
+## Day 1 at my startup
+Today I joined my squad and made my first commit. Excited to start building.
